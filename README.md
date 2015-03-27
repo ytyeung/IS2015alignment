@@ -6,7 +6,7 @@ File description:
 
 1. File Lists
 -  file_list.scp: entire list of files that we have process
--  verified_alignment.scp: among them, the alignment of these files should be OK.
+-  verified_alignment.scp: the alignment of these files should be OK.
 -  unreliable_alignment.scp: Ooops, something wrong in these files
 
 2. Alignments
