@@ -1,0 +1,608 @@
+HResults -A -t -c -e innocense innocence -e ??? !ENTER -e ??? !EXIT -e ??? sil -k */data/%%%/*.* -T 1 -I ../mlf/ALL.mlf ../lists/wordlist updated_alignment_subject_A.mlf 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0008.lab vs ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0008.rec
+ LAB: EXCEPT IN THE WINTER WHEN THE OOZE OR SNOW OR ICE PREVENTS 
+ REC: EXCEPT IN THE WINTER      THE OOZE OR SNOW OR ICE PREVENTS 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0014.lab vs ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0014.rec
+ LAB: HE SLOWLY TAKES A SHORT  WALK IN THE OPEN AIR EACH DAY 
+ REC: HE SLOWLY TAKES A SLOWLY WALK IN THE OPEN AIR EACH DAY 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0027.lab vs ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0027.rec
+ LAB: BUT HE ALWAYS ANSWERS BANANA OIL 
+ REC:     HE ALWAYS ANSWERS BANANA OIL 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0032.lab vs ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0032.rec
+ LAB: SHE HAD YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR 
+ REC: SHE HAD IN   DARK SUIT IN GREASY WASH WATER ALL YEAR 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0035.lab vs ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0035.rec
+ LAB: GIVING THOSE WHO OBSERVE    HIM A PRONOUNCED FEELING OF THE UTMOST RESPECT 
+ REC: GIVING THOSE WHO PRONOUNCED HIM A PRONOUNCED FEELING OF THE UTMOST RESPECT 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0036.lab vs ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0036.rec
+ LAB: WE HAVE OFTEN URGED HIM TO WALK MORE       AND SMOKE LESS 
+ REC: WE HAVE OFTEN       HIM TO WALK MORE SMOKE AND SMOKE LESS 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0104.lab vs ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0104.rec
+ LAB: YET HE STILL THINKS AS SWIFTLY AS EVER 
+ REC: YET HE STILL THINKS AS SWIFTLY    EVER 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0126.lab vs ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0126.rec
+ LAB: HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT 
+ REC: HE DRESSES HIMSELF IN AN         BLACK FROCK COAT 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0132.lab vs ../DATA/TORGO/torgo_d2/data/F01/Session1/wav_headMic/0132.rec
+ LAB: WHEN HE SPEAKS HIS VOICE    IS JUST A BIT CRACKED AND QUIVERS A TRIFLE 
+ REC: WHEN HE SPEAKS HIS VOICE HE IS      A BIT CRACKED AND QUIVERS A TRIFLE 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session1/wav_headMic/0011.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session1/wav_headMic/0011.rec
+ LAB: SHE HAD           YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR 
+ REC: SHE HAD YOUR DARK YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session1/wav_headMic/0055.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session1/wav_headMic/0055.rec
+ LAB: GRANDFATHER LIKES TO BE MODERN IN HIS LANGUAGE 
+ REC: GRANDFATHER LIKES TO BE MODERN    HIS LANGUAGE 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session1/wav_headMic/0167.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session1/wav_headMic/0167.rec
+ LAB: SHE IS THINNER THAN I AM 
+ REC: SHE    THINNER THAN I AM 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session1/wav_headMic/0174.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session1/wav_headMic/0174.rec
+ LAB: WHY YELL OR WORRY OVER SILLY ITEMS 
+ REC: WHY YELL    WORRY OVER SILLY ITEMS 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0007.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0007.rec
+ LAB:    IF             YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID 
+ REC: IF IF YOU DESTROY YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0031.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0031.rec
+ LAB: TWO OTHER CASES ALSO WERE UNDER ADVISEMENT 
+ REC: TWO OTHER CASES ALSO WERE       ADVISEMENT 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0111.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0111.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0139.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0139.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0160.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session2/wav_headMic/0160.rec
+ LAB: THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE 
+ REC: THIS IS NOT   PROGRAM OF SOCIALIZED MEDICINE 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0002.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0002.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0009.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0009.rec
+ LAB: TRAVEL IS ABOUT THE ONLY LEISURE WE HAVE 
+ REC: TRAVEL IS ABOUT THE ONLY         WE HAVE 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0029.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0029.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0032.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0032.rec
+ LAB: THE FISH SWAM ACROSS THE POND 
+ REC: THE FISH SWAM ACROSS     POND 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0040.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0040.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0056.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0056.rec
+ LAB: THIS IS A GOOD PLACE THOUGH SMALL 
+ REC: THIS IS A      PLACE THOUGH SMALL 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0063.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0063.rec
+ LAB: SOME HOTELS ARE AVAILABLE NEARBY 
+ REC: SOME HOTELS     AVAILABLE NEARBY 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0083.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0083.rec
+ LAB: IT WAS ONLY 
+ REC:    WAS ONLY 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0097.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0097.rec
+ LAB: THERE WAS ONLY ONE DECISION TO BE MADE 
+ REC:       WAS ONLY ONE DECISION TO BE MADE 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0105.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0105.rec
+ LAB: YOU CAN RIDE STAGECOACH 
+ REC: YOU CAN      STAGECOACH 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0117.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0117.rec
+ LAB: HE IS DEFINITELY A NOTCH ABOVE US 
+ REC: HE    DEFINITELY A NOTCH ABOVE    
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0121.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0121.rec
+ LAB: THE PAIR OF SHOES WAS NEW 
+ REC: THE PAIR    SHOES WAS NEW 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0135.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0135.rec
+ LAB: ETIQUETTE MANDATES COMPLIANCE WITH EXISTING          REGULATIONS 
+ REC: ETIQUETTE MANDATES COMPLIANCE WITH EXISTING MANDATES REGULATIONS 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0162.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0162.rec
+ LAB: NIGHT AFTER NIGHT THEY RECEIVED ANNOYING PHONE CALLS 
+ REC: NIGHT AFTER NIGHT THEY RECEIVED ANNOYING PHONE       
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0175.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0175.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0178.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0178.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0188.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0188.rec
+ LAB: HE WRAPPED THE PACKAGE HASTILY 
+ REC:    WRAPPED THE PACKAGE HASTILY 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0198.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0198.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0214.lab vs ../DATA/TORGO/torgo_d2/data/F03/Session3/wav_headMic/0214.rec
+ LAB: HELP CELEBRATE YOUR BROTHER'S SUCCESS 
+ REC: HELP CELEBRATE      BROTHER'S SUCCESS 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0008.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0008.rec
+ LAB:       BRIAR 
+ REC: BRIAR BRIAR 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0012.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0012.rec
+ LAB:     XXX 
+ REC: XXX XXX 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0025.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0025.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0032.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0032.rec
+ LAB: SHE IS THINNER THAN I AM 
+ REC: SHE IS THINNER        AM 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0036.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0036.rec
+ LAB: NOTHING IS AS OFFENSIVE AS INNOCENSE 
+ REC: NOTHING IS    OFFENSIVE AS INNOCENSE 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0041.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0041.rec
+ LAB: WE GATHERED SHELLS ON THE BEACH 
+ REC: WE GATHERED SHELLS ON THE       
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0068.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0068.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0101.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0101.rec
+ LAB: WHEN ALL ELSE FAILS USE FORCE 
+ REC: WHEN ALL      FAILS USE FORCE 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0118.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0118.rec
+ LAB: IT WAS A GOOD WIN FOR US 
+ REC: IT WAS A GOOD WIN FOR    
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0120.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0120.rec
+ LAB: ALUMINUM SILVERWARE CAN OFTEN BE FLIMSY 
+ REC: ALUMINUM SILVERWARE     OFTEN BE FLIMSY 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0161.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0161.rec
+ LAB:     XXX 
+ REC: XXX XXX 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0176.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0176.rec
+ LAB: I HAVE HAD MY BELL RUNG 
+ REC: I HAVE     MY BELL RUNG 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0220.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0220.rec
+ LAB: THE PAIR OF SHOES WAS NEW 
+ REC: THE PAIR    SHOES WAS NEW 
+Aligned transcription: ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0224.lab vs ../DATA/TORGO/torgo_d2/data/F04/Session2/wav_headMic/0224.rec
+ LAB:             SHEET 
+ REC: SHEET SHEET SHEET 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0005.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0005.rec
+ LAB: WHEN HE SPEAKS HIS VOICE IS      JUST A BIT CRACKED AND QUIVERS A TRIFLE 
+ REC: WHEN HE SPEAKS HIS VOICE IS WHEN JUST A BIT CRACKED AND QUIVERS A TRIFLE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0009.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0009.rec
+ LAB: GRANDFATHER LIKES TO    BE MODERN IN HIS LANGUAGE 
+ REC: GRANDFATHER       TO IN BE MODERN IN HIS LANGUAGE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0011.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0011.rec
+ LAB: EXCEPT IN THE WINTER WHEN THE OOZE OR SNOW OR     ICE PREVENTS 
+ REC: EXCEPT IN THE WINTER WHEN THE OOZE OR SNOW OR THE ICE PREVENTS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0018.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0018.rec
+ LAB: WELL HE IS NEARLY NINETY-THREE YEARS OLD 
+ REC: WELL HE IS NEARLY NEARLY       YEARS OLD 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0019.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0019.rec
+ LAB: HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK    COAT 
+ REC: HE DRESSES HIMSELF IN AN ANCIENT       FROCK AN COAT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0023.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0023.rec
+ LAB: I WILL LEAD YOU 
+ REC:        LEAD YOU 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0026.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0026.rec
+ LAB: YET HE STILL THINKS AS SWIFTLY AS EVER 
+ REC: YET    STILL THINKS AS SWIFTLY AS EVER 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0040.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0040.rec
+ LAB: BUT HE ALWAYS ANSWERS BANANA OIL 
+ REC: BUT HE        ANSWERS BANANA OIL 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0041.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0041.rec
+ LAB: BUT HE ALWAYS        ANSWERS BANANA OIL 
+ REC:        ALWAYS BANANA ANSWERS BANANA OIL 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0044.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0044.rec
+ LAB: DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT 
+ REC: DON'T     ME TO       AN               THAT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0053.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0053.rec
+ LAB: YOU WISHED TO KNOW ALL ABOUT MY         GRANDFATHER 
+ REC: YOU        TO KNOW ALL ABOUT MY TO KNOW YOU         
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0072.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0072.rec
+ LAB: SHE HAD YOUR DARK    SUIT IN GREASY WASH WATER    ALL YEAR 
+ REC: SHE HAD      DARK IN SUIT IN GREASY      WATER IN ALL YEAR 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0077.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0077.rec
+ LAB: HE SLOWLY TAKES A     SHORT WALK IN THE OPEN AIR EACH DAY 
+ REC:                 A THE IN    WALK IN THE OPEN AIR EACH DAY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0084.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0084.rec
+ LAB: TWICE EACH DAY HE      PLAYS SKILLFULLY AND WITH ZEST UPON OUR  SMALL ORGAN 
+ REC: TWICE EACH DAY HE WITH AND   WITH       AND WITH ZEST AND  WITH SMALL ORGAN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0092.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session1/wav_headMic/0092.rec
+ LAB: WE HAVE OFTEN URGED HIM TO WALK MORE AND SMOKE LESS 
+ REC: WE HAVE OFTEN URGED HIM TO AND  MORE HIM SMOKE TO   
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0029.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0029.rec
+ LAB: I WAS CONSCIOUS         ALL THE TIME 
+ REC: I WAS CONSCIOUS TIME TO ALL THE TIME 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0033.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0033.rec
+ LAB:    WE GATHERED SHELLS ON THE BEACH 
+ REC: WE WE GATHERED SHELLS ON THE       
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0042.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0042.rec
+ LAB: THE ISLANDS     ARE         SPARSELY POPULATED 
+ REC: THE ISLANDS ARE ARE MUSICAL THE      OOZE      
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0043.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0043.rec
+ LAB: BOTH FIGURES WOULD GO HIGHER IN LATER YEARS 
+ REC: BOTH FIGURES WOULD GO HIGHER IN       YEARS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0061.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0061.rec
+ LAB: I FEEL I CAN PLAY THIS WEEKEND 
+ REC: I FEEL I CAN      THIS WEEKEND 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0066.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0066.rec
+ LAB: TWO OTHER CASES ALSO WERE UNDER ADVISEMENT 
+ REC: TWO OTHER TWO   ALSO WERE UNDER ADVISEMENT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0078.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0078.rec
+ LAB: SHE IS THINNER THAN I AM 
+ REC: SHE    THINNER THAN I AM 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0094.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0094.rec
+ LAB: I LOOKED UP AND NOTICED TWO OLD MEN 
+ REC: I TWO    UP AND NOTICED TWO OLD MEN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0096.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0096.rec
+ LAB: I    JUST TRY TO DO MY BEST 
+ REC: I TO JUST TRY TO DO MY BEST 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0105.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0105.rec
+ LAB: THIS WAS EASY FOR US 
+ REC: THIS WAS NEW  FOR US 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0111.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0111.rec
+ LAB: IF YOU    DESTROY CONFIDENCE IN BANKS           YOU DO SOMETHING TO THE ECONOMY HE SAID 
+ REC: IF YOU IN THE     CONFIDENCE IN BANKS SOMETHING YOU DO SOMETHING TO THE ECONOMY HE SAID 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0121.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0121.rec
+ LAB: ALL THE BIG BASEBALL PLAYERS GET TRADED 
+ REC: ALL THE BIG BASEBALL GET     GET TRADED 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0127.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0127.rec
+ LAB: WHY YELL OR WORRY OVER SILLY ITEMS 
+ REC: WHY YELL OR WORRY OVER SILLY       
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0129.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0129.rec
+ LAB: THE TRAIN APPROACHED THE DEPOT SLOWLY 
+ REC: THE TRAIN APPROACHED THE DEPOT TRAIN  
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0132.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0132.rec
+ LAB: THEY CARRIED ME    OFF     ON THE STRETCHER 
+ REC: THEY CARRIED ME ON OFF THE ON THE STRETCHER 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0146.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0146.rec
+ LAB: EVERYTHING WENT REAL SMOOTH THE SHERIFF SAID 
+ REC: EVERYTHING WENT REAL SMOOTH     SHERIFF SAID 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0160.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0160.rec
+ LAB: THIS IS NOT A PROGRAM OF     SOCIALIZED MEDICINE 
+ REC: THIS IS NOT A PROGRAM OF NOT THIS       MEDICINE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0166.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0166.rec
+ LAB: THE LITTLE SCHOOLHOUSE STOOD EMPTY 
+ REC: THE LITTLE SCHOOLHOUSE       EMPTY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0177.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0177.rec
+ LAB: DAY      AFTER DAY SOME NEW EPISODE IS REPORTED 
+ REC: DAY SOME NEW   DAY SOME NEW EPISODE IS REPORTED 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0179.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0179.rec
+ LAB: IT EVENTUALLY BECAME A RATHER PROUD      CLAIM 
+ REC: IT EVENTUALLY BECAME A RATHER EVENTUALLY CLAIM 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0181.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0181.rec
+ LAB: HE FURTHER      PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS 
+ REC: HE EXPERIMENTAL PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL PROPOSED  
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0187.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0187.rec
+ LAB: THERE IS A TREEHOUSE UP         ABOVE 
+ REC: THERE IS             DEFINITELY ABOVE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0191.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0191.rec
+ LAB: NOTHING HAS BEEN DONE YET TO TAKE ADVANTAGE OF THE          ENABLING              LEGISLATION 
+ REC: NOTHING     BEEN DONE YET TO TAKE ADVANTAGE OF THE ENABLING ENABLING BEEN DONE TO NOTHING     
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0204.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0204.rec
+ LAB:       THORN 
+ REC: THORN THORN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0205.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0205.rec
+ LAB: IF YOU ARE LOSING WATER     REPLACE        IT IMMEDIATELY 
+ REC: IF YOU ARE LOSING WATER ARE REPLACE LOSING IT LOSING      
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0206.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0206.rec
+ LAB: WHEN ALL ELSE FAILS USE FORCE 
+ REC: WHEN ALL ELSE USE   USE FORCE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0222.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0222.rec
+ LAB: I EXPECT WE'LL BOUNCE BACK THIS WEEK   
+ REC: I EXPECT WE'LL BOUNCE           BOUNCE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0239.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0239.rec
+ LAB: ALFALFA IS HEALTHY FOR YOU 
+ REC: ALFALFA IS HEALTHY     YOU 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0245.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0245.rec
+ LAB:            THOUGHT 
+ REC: THOUGHT IT THOUGHT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0254.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0254.rec
+ LAB: STUDENTS WATCHED AS HE GOT OUT  
+ REC: STUDENTS         AS HE GOT EVER 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0255.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0255.rec
+ LAB: A ROLL OF WIRE LAY NEAR THE WALL 
+ REC: A ROLL OF      LAY NEAR THE WALL 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0271.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0271.rec
+ LAB: HE WRAPPED THE PACKAGE HASTILY 
+ REC: HE WRAPPED THE PACKAGE OOZE    
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0275.lab vs ../DATA/TORGO/torgo_d4/data/M01/Session2_3/wav_headMic/0275.rec
+ LAB: SWING YOUR ARM AS HIGH AS YOU CAN 
+ REC: SWING YOUR ARM    HIGH AS YOU CAN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0020.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0020.rec
+ LAB: GRANDFATHER LIKES TO BE MODERN IN HIS LANGUAGE 
+ REC: GRANDFATHER LIKES TO    MODERN IN HIS LANGUAGE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0055.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0055.rec
+ LAB: SHE HAD YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR 
+ REC: SHE HAD YOUR DARK SUIT IN SUIT   WASH WATER ALL YEAR 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0062.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0062.rec
+ LAB: WHEN HE SPEAKS HIS VOICE IS JUST A BIT CRACKED AND QUIVERS A TRIFLE 
+ REC: WHEN HE AND    HIS VOICE IS JUST A BIT CRACKED AND QUIVERS A TRIFLE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0080.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0080.rec
+ LAB: HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY 
+ REC: HE SLOWLY TAKES A SHORT WALK IN     OPEN AIR EACH DAY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0106.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0106.rec
+ LAB: DON'T ASK ME TO CARRY AN OILY    RAG LIKE THAT 
+ REC: DON'T ASK ME TO CARRY AN OILY TO RAG LIKE THAT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0126.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0126.rec
+ LAB: I    JUST TRY TO DO MY BEST 
+ REC: I DO JUST TRY TO DO MY BEST 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0130.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0130.rec
+ LAB: I TRIED TO TELL    PEOPLE IN THE COMMUNITY 
+ REC: I TRIED TO TELL TO TELL   IN THE COMMUNITY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0153.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0153.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0163.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0163.rec
+ LAB:       WE'RE 
+ REC: WE'RE WE'RE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0198.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0198.rec
+ LAB: NOTHING IS   AS OFFENSIVE AS INNOCENSE 
+ REC: NOTHING IS A AS OFFENSIVE AS INNOCENSE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0238.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session1/wav_headMic/0238.rec
+ LAB: THE TRAIN APPROACHED THE       DEPOT SLOWLY 
+ REC: THE TRAIN APPROACHED THE TRAIN DEPOT SLOWLY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0078.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0078.rec
+ LAB: THE HUMIDITY IS          OVERWHELMING THERE 
+ REC: THE HUMIDITY IS HUMIDITY OVERWHELMING THERE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0081.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0081.rec
+ LAB:        SELECT 
+ REC: SELECT SELECT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0086.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0086.rec
+ LAB: MY SISTER     MADE THE FLOWERED CURTAINS 
+ REC: MY SISTER THE MADE THE FLOWERED CURTAINS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0090.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0090.rec
+ LAB: WHERE WERE YOU WHILE WE WERE AWAY 
+ REC: WHERE      YOU WHILE WE WERE AWAY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0111.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0111.rec
+ LAB:      BOTH       INJURIES WERE TO THE SAME LEG 
+ REC: BOTH BOTH TO TO TO       WERE TO THE SAME LEG 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0116.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0116.rec
+ LAB:       WITTY 
+ REC: WITTY WITTY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0128.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0128.rec
+ LAB: BEFORE THURSDAY'S EXAM REVIEW EVERY FORMULA 
+ REC: BEFORE EVERY      EXAM REVIEW EVERY FORMULA 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0133.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0133.rec
+ LAB: ALIMONY HARMS A DIVORCED MAN'S WEALTH 
+ REC: ALIMONY       A ALIMONY  MAN'S WEALTH 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0134.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0134.rec
+ LAB: IT ALSO PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP COLLEGES BUILD DORMITORIES 
+ REC: IT ALSO PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP COLLEGES HELP  DORMITORIES 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0137.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0137.rec
+ LAB: THIS IS NOT A    PROGRAM OF SOCIALIZED MEDICINE 
+ REC: THIS IS NOT A OF PROGRAM OF SOCIALIZED MEDICINE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0178.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0178.rec
+ LAB: THE BOOKS ARE  VERY EXPENSIVE 
+ REC: THE BOOKS VERY VERY EXPENSIVE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0188.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0188.rec
+ LAB: THE LITTLE SCHOOLHOUSE STOOD       EMPTY 
+ REC: THE LITTLE SCHOOLHOUSE SCHOOLHOUSE EMPTY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0193.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0193.rec
+ LAB: SWING YOUR ARM AS HIGH AS YOU CAN 
+ REC: SWING      ARM AS HIGH AS YOU CAN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0194.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0194.rec
+ LAB: IT WAS A GOOD WIN FOR US 
+ REC: IT WAS A GOOD WIN     US 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0202.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0202.rec
+ LAB: HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED       SUM FOR EXPERIMENTAL    HOSPITALS 
+ REC: HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED OF AN SUM FOR EXPERIMENTAL AN PROPOSED  
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0208.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0208.rec
+ LAB: NOTHING HAS BEEN DONE YET TO TAKE ADVANTAGE OF          THE ENABLING LEGISLATION 
+ REC: NOTHING HAS BEEN DONE YET TO TAKE ADVANTAGE OF ENABLING THE ENABLING TO          
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0209.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0209.rec
+ LAB: WE RODE HORSEBACK TO THE FARM 
+ REC: WE RODE TO        TO THE FARM 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0225.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0225.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0228.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0228.rec
+ LAB: CARL LIVES IN A    LIVELY HOME 
+ REC: CARL LIVES IN A IN LIVELY HOME 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0230.lab vs ../DATA/TORGO/torgo_d4/data/M02/Session2/wav_headMic/0230.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0013.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0013.rec
+ LAB: WELL HE IS NEARLY NINETY-THREE       YEARS OLD 
+ REC: WELL HE IS NEARLY NINETY-THREE THREE YEARS OLD 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0119.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0119.rec
+ LAB: YOU'D BE BETTER OFF TAKING A COLD SHOWER 
+ REC: YOU'D BE BETTER OFF TAKING   COLD SHOWER 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0164.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0164.rec
+ LAB: I LOOKED UP AND NOTICED TWO OLD MEN 
+ REC: I LOOKED    AND NOTICED TWO OLD MEN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0194.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0194.rec
+ LAB: I JUST TRY TO DO MY BEST 
+ REC: I JUST TRY    DO MY BEST 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0218.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0218.rec
+ LAB: I TRIED TO TELL PEOPLE IN THE COMMUNITY 
+ REC: I TRIED TO TELL PEOPLE IN     COMMUNITY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0221.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0221.rec
+ LAB: BOTH FIGURES WOULD GO HIGHER IN LATER YEARS 
+ REC: BOTH FIGURES WOULD GO HIGHER    LATER YEARS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0244.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0244.rec
+ LAB: IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID 
+ REC: IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING        ECONOMY HE SAID 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0263.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0263.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0277.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0277.rec
+ LAB: THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE 
+ REC: THIS IS     A PROGRAM OF SOCIALIZED MEDICINE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0348.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0348.rec
+ LAB:     SIX 
+ REC: SIX SIX 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0366.lab vs ../DATA/TORGO/torgo_d4/data/M03/Session2/wav_headMic/0366.rec
+ LAB: XXX 
+ REC:     
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0014.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0014.rec
+ LAB: SHE HAD YOUR DARK SUIT IN GREASY      WASH WATER ALL YEAR 
+ REC: SHE HAD YOUR DARK SUIT IN GREASY WASH WASH WATER ALL YEAR 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0024.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0024.rec
+ LAB: GIVING THOSE WHO OBSERVE HIM A PRONOUNCED FEELING OF THE UTMOST     RESPECT 
+ REC: GIVING THOSE WHO OBSERVE HIM A PRONOUNCED FEELING OF THE PRONOUNCED RESPECT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0029.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0029.rec
+ LAB: WHEN HE SPEAKS HIS VOICE IS JUST A BIT CRACKED AND QUIVERS A TRIFLE 
+ REC: WHEN HE SPEAKS HIS VOICE IS WHEN A BIT CRACKED AND QUIVERS A TRIFLE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0032.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0032.rec
+ LAB: DON'T ASK ME TO CARRY    AN      OILY    RAG LIKE THAT 
+ REC: DON'T ASK ME TO CARRY AN AN OILY OILY TO RAG LIKE THAT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0042.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0042.rec
+ LAB:      RATE 
+ REC: RATE RATE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0046.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0046.rec
+ LAB: WE HAVE OFTEN URGED HIM TO WALK MORE AND     SMOKE LESS 
+ REC: WE HAVE OFTEN URGED HIM TO WALK MORE AND HIM SMOKE LESS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0048.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0048.rec
+ LAB: A LONG FLOWING BEARD      CLINGS         TO HIS CHIN 
+ REC: A LONG LONG    BEARD LONG CLINGS FLOWING TO HIS CHIN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0060.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0060.rec
+ LAB: HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY        
+ REC: HE SLOWLY TAKES A SHORT WALK IN     OPEN AIR EACH ACTIVITIES 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0077.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0077.rec
+ LAB: YOU WISHED    TO KNOW ALL ABOUT MY GRANDFATHER 
+ REC: YOU WISHED TO TO KNOW ALL ABOUT MY GRANDFATHER 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0083.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0083.rec
+ LAB: HE DRESSES HIMSELF         IN AN ANCIENT BLACK FROCK COAT 
+ REC: HE DRESSES HIMSELF ANCIENT IN AN ANCIENT BLACK FROCK COAT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0098.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0098.rec
+ LAB: WELL HE IS    NEARLY NINETY-THREE YEARS OLD 
+ REC: WELL HE IS HE NEARLY NINETY-THREE YEARS OLD 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0100.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0100.rec
+ LAB: TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR       SMALL ORGAN 
+ REC: TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL SMALL ORGAN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0133.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0133.rec
+ LAB: THEY CARRIED ME OFF ON THE STRETCHER 
+ REC: THEY CARRIED ME     ON THE STRETCHER 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0147.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0147.rec
+ LAB: TWO OTHER       CASES       ALSO WERE UNDER ADVISEMENT 
+ REC: TWO OTHER UNDER CASES UNDER ALSO WERE UNDER ADVISEMENT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0153.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0153.rec
+ LAB:     ONE             VALIDATED ACTS OF SCHOOL     DISTRICTS 
+ REC: ONE ONE VOLUNTEERED VALIDATED ACTS OF SCHOOL ONE DISTRICTS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0155.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0155.rec
+ LAB: I WAS                 CONSCIOUS ALL THE TIME 
+ REC: I WAS ALL THE THE THE TIME      ALL THE TIME 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0174.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0174.rec
+ LAB: WE     GATHERED SHELLS ON THE BEACH 
+ REC: WE THE GATHERED SHELLS ON THE BEACH 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0182.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0182.rec
+ LAB: HE WILL       ALLOW   A RARE LIE 
+ REC: HE WILL ALLOW ALLOW A A RARE LIE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0183.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0183.rec
+ LAB: HE WILL ALLOW      A RARE LIE 
+ REC: HE WILL ALLOW WILL A RARE LIE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0184.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0184.rec
+ LAB:                         BRIAR 
+ REC: BRIAR BRIAR BRIAR BRIAR BRIAR 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0186.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0186.rec
+ LAB: JUST ONE SIDE GOT WET 
+ REC: JUST ONE      GOT WET 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0187.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0187.rec
+ LAB: WHY YELL OR       WORRY OVER       SILLY ITEMS 
+ REC: WHY YELL OR SILLY ITEMS OVER WORRY SILLY ITEMS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0194.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0194.rec
+ LAB: IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID 
+ REC: IF YOU TO      CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0202.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0202.rec
+ LAB: EVERYTHING WENT REAL SMOOTH THE SHERIFF SAID 
+ REC: EVERYTHING WENT REAL WENT   THE SHERIFF SAID 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0208.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0208.rec
+ LAB: ALL THE BIG BASEBALL   PLAYERS GET TRADED 
+ REC: ALL THE     INVESTMENT PLAYERS GET TRADED 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0216.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0216.rec
+ LAB: MOTHER SEWS YELLOW  GINGHAM APRONS 
+ REC: MOTHER SEWS GINGHAM GINGHAM APRONS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0226.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0226.rec
+ LAB:       YOU'D BE BETTER OFF TAKING A COLD SHOWER 
+ REC: YOU'D YOU'D BE BETTER OFF TAKING A COLD SHOWER 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0231.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0231.rec
+ LAB: THE TRAIN APPROACHED THE DEPOT SLOWLY 
+ REC: THE TRAIN TRAIN      THE DEPOT SLOWLY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0236.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0236.rec
+ LAB: THEIR HOUSE     IS GREY AND WHITE 
+ REC: THEIR HOUSE AND IS GREY AND WHITE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0242.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0242.rec
+ LAB: I LOOKED UP AND NOTICED TWO OLD MEN 
+ REC: I        UP AND NOTICED TWO OLD MEN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0248.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0248.rec
+ LAB: NOTHING IS AS         OFFENSIVE AS INNOCENSE 
+ REC: NOTHING IS AS NOTHING OFFENSIVE AS INNOCENSE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0255.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0255.rec
+ LAB:        YOU'RE     USED TO BEING ON THE FIELD 
+ REC: YOU'RE YOU'RE THE USED TO BEING ON THE FIELD 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0274.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0274.rec
+ LAB: THE ISLANDS     ARE     SPARSELY         POPULATED 
+ REC: THE ISLANDS THE ISLANDS SPARSELY ISLANDS POPULATED 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0282.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0282.rec
+ LAB: IT ALSO     PROVIDES FOR FUNDS TO CLEAR SLUMS AND      HELP                 COLLEGES BUILD DORMITORIES 
+ REC: IT ALSO AND PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP HELP AND AND AND AND COLLEGES                   
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0283.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0283.rec
+ LAB: IT WAS A GOOD WIN FOR US 
+ REC: IT WAS A      WIN FOR US 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0286.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0286.rec
+ LAB: SHE WORE   WARM FLEECY WOOLEN OVERALLS 
+ REC: SHE WOOLEN WARM FLEECY WOOLEN OVERALLS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0288.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0288.rec
+ LAB: THIS IS NOT A PROGRAM OF                      SOCIALIZED MEDICINE 
+ REC: THIS IS NOT A PROGRAM OF PROGRAM IS NOT A NOT A          MEDICINE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0291.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0291.rec
+ LAB: NOTHING HAS BEEN DONE YET TO TAKE ADVANTAGE      OF THE ENABLING LEGISLATION 
+ REC: NOTHING HAS BEEN DONE YET TO TAKE ADVANTAGE BEEN OF THE ENABLING ENABLING    
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0295.lab vs ../DATA/TORGO/torgo_d4/data/M04/Session2/wav_headMic/0295.rec
+ LAB: THERE IS A TREEHOUSE       UP ABOVE 
+ REC: THERE IS A TREEHOUSE ABOVE UP ABOVE 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0009.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0009.rec
+ LAB: TWICE EACH DAY HE PLAYS SKILLFULLY     AND WITH ZEST UPON OUR SMALL ORGAN 
+ REC: TWICE EACH DAY HE PLAYS SKILLFULLY AND AND WITH ZEST UPON OUR SMALL ORGAN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0010.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0010.rec
+ LAB: GIVING     THOSE WHO OBSERVE HIM A PRONOUNCED FEELING OF THE UTMOST RESPECT 
+ REC: GIVING WHO THOSE WHO         HIM A PRONOUNCED FEELING OF THE UTMOST WHO     
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0020.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0020.rec
+ LAB:        EXCEPT IN THE WINTER WHEN THE OOZE OR SNOW OR ICE PREVENTS 
+ REC: IN THE EXCEPT IN THE WINTER WHEN THE OOZE OR SNOW OR ICE PREVENTS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0030.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0030.rec
+ LAB:      SLIP 
+ REC: SLIP SLIP 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0032.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0032.rec
+ LAB:      LEFT 
+ REC: LEFT LEFT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0056.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0056.rec
+ LAB: THE QUICK      BROWN FOX JUMPS OVER THE LAZY DOG 
+ REC: THE QUICK OVER SILLY FOX JUMPS OVER THE LAZY DOG 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0057.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0057.rec
+ LAB: HE SLOWLY TAKES A SHORT WALK IN THE OPEN     AIR EACH DAY 
+ REC: HE SLOWLY       A A     WALK IN THE OPEN THE THE EACH DAY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0061.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0061.rec
+ LAB: USUALLY MINUS         SEVERAL BUTTONS 
+ REC: USUALLY MINUS USUALLY SEVERAL BUTTONS 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0062.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0062.rec
+ LAB: YOU WISHED TO KNOW ALL ABOUT MY GRANDFATHER    
+ REC: YOU WISHED TO TELL ALL ABOUT MY GRANDFATHER MY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0074.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0074.rec
+ LAB: WHEN HE SPEAKS HIS VOICE IS JUST A   BIT CRACKED AND QUIVERS A TRIFLE      
+ REC: WHEN HE SPEAKS HIS       IS      HIS BIT CRACKED AND QUIVERS A TRIFLE WHEN 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0078.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0078.rec
+ LAB: DON'T ASK ME TO CARRY AN OILY RAG    LIKE THAT 
+ REC: DON'T ASK ME TO CARRY AN ME   RAG AN LIKE THAT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0080.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0080.rec
+ LAB: FOR     
+ REC: FOR ANY 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0089.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0089.rec
+ LAB: HE DRESSES HIMSELF       IN AN ANCIENT BLACK FROCK COAT 
+ REC: HE HIMSELF HIMSELF IN IN IN AN ANCIENT BLACK FROCK COAT 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0093.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0093.rec
+ LAB:    NO 
+ REC: NO NO 
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0094.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0094.rec
+ LAB: BUT HE ALWAYS  ANSWERS BANANA OIL 
+ REC: BUT HE ANSWERS ANSWERS BANANA     
+Aligned transcription: ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0104.lab vs ../DATA/TORGO/torgo_d4/data/M05/Session1/wav_headMic/0104.rec
+ LAB: SHE HAD YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR 
+ REC: SHE HAD SUIT DARK SUIT IN GREASY WASH WATER ALL YEAR 
+=========================== HTK Results Analysis =============================
+  Date: Fri Mar 27 21:38:31 2015
+  Ref : ../mlf/ALL.mlf
+  Rec : updated_alignment_subject_A.mlf
+------------------------------ Speaker Results -------------------------------
+spkr: %Corr( %Acc )  [ Hits, Dels, Subs, Ins, #Words] %S.Corr [ #Sent ]
+------------------------------------------------------------------------------
+F01:  96.76( 96.04)  [H= 269, D=  6, S=  3, I=  2, N= 278]  92.11 [N=114]
+F03:  98.14( 97.71)  [H=1372, D= 26, S=  0, I=  6, N=1398]  94.90 [N=549]
+F04:  98.28( 97.50)  [H= 630, D= 11, S=  0, I=  5, N= 641]  94.35 [N=248]
+M01:  92.96( 89.49)  [H= 858, D= 35, S= 30, I= 32, N= 923]  86.96 [N=368]
+M02:  97.79( 95.79)  [H= 930, D=  9, S= 12, I= 19, N= 951]  92.01 [N=388]
+M03:  99.01( 98.81)  [H=1002, D= 10, S=  0, I=  2, N=1012]  97.28 [N=404]
+M04:  96.70( 89.40)  [H= 675, D=  8, S= 15, I= 51, N= 698]  85.71 [N=273]
+M05:  94.19( 87.98)  [H= 243, D=  5, S= 10, I= 16, N= 258]  85.84 [N=113]
+------------------------------ Overall Results -------------------------------
+SENT: %Correct=92.02 [H=2261, S=196, N=2457]
+WORD: %Corr=97.08, Acc=94.92 [H=5979, D=110, S=70, I=133, N=6159]
+==============================================================================
