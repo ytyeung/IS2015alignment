@@ -9,7 +9,6 @@ File description:
 -  verified_alignment.scp: among them, the alignment of these files should be OK.
 -  unreliable_alignment.scp: Ooops, something wrong in these files
 
-=================
 2. Alignments
 
 2.1 Initial Alignment: control and subject
@@ -28,8 +27,7 @@ File description:
 --  updated_alignment_subject_B.mlf	
 --  updated_alignment_control_B.mlf	
 
-3 Comparison with HResults
-==============================
+3. Comparison with HResults
 - HResult_LVCSR_control.txt
 - HResult_LVCSR_subject.txt
 - HResult_updated_alignment_control_A.txt
