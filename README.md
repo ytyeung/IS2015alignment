@@ -1,6 +1,9 @@
 # IS2015alignment
 Contains the alignments of the TORGO corpus
 
+Note:
+Speech data are recorded on Headphone.
+
 File description:
 =================
 
